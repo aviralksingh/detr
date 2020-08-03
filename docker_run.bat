@@ -1,0 +1,1 @@
+docker run --rm -v D:/Code_Repos/aviralksingh/detr/:/workspace/code/ -v E:/datasets/coco:/workspace/data/ -it aviralksingh/pytorch1.6.0cuda10.1:latest
