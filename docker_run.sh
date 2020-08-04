@@ -1,0 +1,1 @@
+sudo docker run --gpus all -it --rm --ipc host -v /home/aviralsingh/Documents/Code_Repos/detr/:/workspace/code -v /media/aviralsingh/Datasets/coco:/workspace/data/ nvcr.io/nvidia/pytorch:20.03-py3
